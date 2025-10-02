@@ -1,4 +1,4 @@
-FROM python:3.5
+FROM python:3.14.0rc3
 MAINTAINER Tinpee <tinpee.dev@gmail.com>
 
 ADD . /src
